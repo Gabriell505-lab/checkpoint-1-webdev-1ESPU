@@ -55,6 +55,9 @@ console.log(usuario || possuiCreditos);
 console.log(!usuario);
 console.log(!possuiCreditos);
 
+//questao 8 
+//Exemplo de branch e merge
+
 //questao 9
 function compararNumeros(a, b) {
   if (a > b) {
