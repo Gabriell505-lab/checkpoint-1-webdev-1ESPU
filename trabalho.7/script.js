@@ -13,7 +13,7 @@
 alert("Bem-vindo ao Checkpoint!");
 
 //questao 4
-var cidade = "São Paulo";
+var cidade = "rio de janeiro";
 var anoAtual = 2026;
  
 let nomeUsuario = "Juan";
