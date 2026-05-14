@@ -30,13 +30,13 @@ console.log(cpf);
 console.log(aniversario);
  
 //questao 5
-let a = 10;
-let b = 2;
+let l = 10;
+let v = 2;
  
-console.log(a + b);
-console.log(a - b);
-console.log(a * b);
-console.log(a / b);
+console.log(l + v);
+console.log(l - v);
+console.log(l * v);
+console.log(l / v);
  
 //questao 6
 console.log(7==7); 
@@ -71,9 +71,9 @@ console.log(compararNumeros(10, 5));
 console.log(compararNumeros(7, 7));
  
 //questao 10
-let a = 15;
-let b = 25;
-console.log("Soma:", a + b);
+let c = 15;
+let d = 25;
+console.log("Soma:", c + d);
  
 let sol = true;
 let chuva = false;
